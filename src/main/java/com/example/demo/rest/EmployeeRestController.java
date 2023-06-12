@@ -1,6 +1,5 @@
 package com.example.demo.rest;
 
-import com.example.demo.dao.EmployeeDAO;
 import com.example.demo.entity.Employee;
 import com.example.demo.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
